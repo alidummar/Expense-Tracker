@@ -1,7 +1,9 @@
 # Simple Expense Tracker
 
 Welcome to the Simple Expense Tracker! This Python script helps you manage your expenses in a straightforward manner. Here's how you can use it:
-![Python Photo](./9E2F7198-2B88-45C1-B049-E955CB160C7E_4_5005_c.jpeg)
+![Logo](./pics/9E2F7198-2B88-45C1-B049-E955CB160C7E_4_5005_c.jpeg)
+
+
 
 
 ## Features

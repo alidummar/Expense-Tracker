@@ -1,0 +1,4 @@
+2023-01-01,Groceries,50.0
+2023-01-02,Utilities,100.0
+2023-01-03,Dinner with friends,30.0
+1111-22-22,food,1.0

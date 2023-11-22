@@ -23,8 +23,6 @@ Watch our video tutorial to get started with the Simple Expense Tracker:
 2. Choose an option by entering the corresponding number (1, 2, 3, 4, or 5).
 3. Follow the prompts to perform the desired action.
 
-## Expense Data File
-All your expenses are stored in a file named `expenses.txt`. This file is created in the same directory as the script and is used to persist your expense data between sessions.
 
 ## Input Validation
 The script includes basic input validation to ensure that required fields are not empty and that amounts are greater than zero. If an error occurs during input, the script will provide an error message.

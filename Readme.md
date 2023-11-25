@@ -1,6 +1,6 @@
 # Simple Expense Tracker
 
-Welcome to the Simple Expense Tracker! This Python script helps you manage your expenses in a straightforward manner. Here's how you can use it:
+Welcome to the Simple Expense Tracker! This Python script helps you manage your expenses in a straightforward manner. Here's how you can use it: 
 ![Logo](./pics/9E2F7198-2B88-45C1-B049-E955CB160C7E_4_5005_c.jpeg)
 
 
@@ -14,7 +14,7 @@ Welcome to the Simple Expense Tracker! This Python script helps you manage your 
 5. **Exit:** Quits the expense tracker.
 
 ## Video Tutorial
-Watch our video tutorial to get started with the Simple Expense Tracker:
+Watch our video tutorial to get started with the Simple Expense Tracker: Click the video to Watch.
 [![YouTube Video](https://img.youtube.com/vi/JDMvSYPPTVA/0.jpg)](https://www.youtube.com/watch?v=JDMvSYPPTVA)
 
 ## How to Use

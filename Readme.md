@@ -15,8 +15,7 @@ Welcome to the Simple Expense Tracker! This Python script helps you manage your 
 
 ## Video Tutorial
 Watch our video tutorial to get started with the Simple Expense Tracker:
-
-[![Expense Tracker Tutorial](https://example.com/thumbnail.jpg)](https://example.com/expensetrackertutorial)
+[![YouTube Video](https://img.youtube.com/vi/JDMvSYPPTVA/0.jpg)](https://www.youtube.com/watch?v=JDMvSYPPTVA)
 
 ## How to Use
 1. Run the script.

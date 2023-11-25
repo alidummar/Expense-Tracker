@@ -44,7 +44,7 @@ def add_expense(expenses):
 def edit_expense(expenses):
     display_expenses(expenses)
     try:
-        index = int(input("Enter the index of the expense to edit: "))
+        index = int(input("Enter the index of the expense to edit: ")) - 1
         if 0 <= index < len(expenses):
             expense = expenses[index]
             print("Editing Expense:")
@@ -69,7 +69,7 @@ def edit_expense(expenses):
             print("Invalid index.")
     except ValueError as e:
         print(f"Error: {e}")
-
+1
 # Function to delete an existing expense
 def delete_expense(expenses):
     display_expenses(expenses)
